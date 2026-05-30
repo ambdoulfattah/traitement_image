@@ -1,10 +1,10 @@
-﻿# 🖼️ Image Processing Toolkit — Python & MATLAB
+﻿#  Image Processing Toolkit — Python & MATLAB
 
 > Bibliothèque de traitement d'images implémentée from scratch en Python et MATLAB, couvrant les opérations fondamentales sur les images en niveaux de gris et RGB.
 
 ---
 
-## 📌 Présentation
+##  Présentation
 
 Ce projet implémente **manuellement** (sans librairies de haut niveau type OpenCV ou scikit-image) un ensemble d'opérations classiques de traitement d'images. L'objectif est de comprendre les mécanismes internes du traitement d'images en travaillant directement sur les matrices de pixels.
 
@@ -15,7 +15,7 @@ Le projet est développé en deux langages complémentaires :
 
 ---
 
-## ⚙️ Fonctionnalités implémentées
+##  Fonctionnalités implémentées
 
 ### Images en niveaux de gris
 
@@ -43,7 +43,7 @@ Le projet est développé en deux langages complémentaires :
 
 ---
 
-## 🗂️ Structure du projet
+##  Structure du projet
 
 ```
 image-processing/
@@ -60,7 +60,7 @@ image-processing/
 
 ---
 
-## 🚀 Lancement (Python)
+##  Lancement (Python)
 
 ### Prérequis
 
@@ -78,7 +78,7 @@ Un menu interactif s'affiche dans le terminal avec toutes les opérations dispon
 
 ---
 
-## 🧠 Concepts clés mis en œuvre
+##  Concepts clés mis en œuvre
 
 - Représentation matricielle des images (tableau 2D pour niveaux de gris, 3D pour RGB)
 - Manipulation directe des pixels sans fonctions de haut niveau
@@ -88,7 +88,7 @@ Un menu interactif s'affiche dans le terminal avec toutes les opérations dispon
 
 ---
 
-## 📷 Exemples visuels
+##  Exemples visuels
 
 | Opération                         | Résultat                                     |
 | --------------------------------- | -------------------------------------------- |
@@ -100,7 +100,7 @@ Un menu interactif s'affiche dans le terminal avec toutes les opérations dispon
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2022+-orange)
@@ -110,7 +110,7 @@ Un menu interactif s'affiche dans le terminal avec toutes les opérations dispon
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 Étudiant en classe préparatoire (2ème année) — profil mathématiques & informatique.  
 Projet réalisé dans le cadre du cours de traitement d'images.
